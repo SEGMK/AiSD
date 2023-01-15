@@ -1,0 +1,15 @@
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\bin\Debug\net6.0\Zadania_AiSD.exe
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\bin\Debug\net6.0\Zadania_AiSD.deps.json
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\bin\Debug\net6.0\Zadania_AiSD.runtimeconfig.json
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\bin\Debug\net6.0\Zadania_AiSD.dll
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\bin\Debug\net6.0\Zadania_AiSD.pdb
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\obj\Debug\net6.0\Zadania_AiSD.csproj.AssemblyReference.cache
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\obj\Debug\net6.0\Zadania_AiSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\obj\Debug\net6.0\Zadania_AiSD.AssemblyInfoInputs.cache
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\obj\Debug\net6.0\Zadania_AiSD.AssemblyInfo.cs
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\obj\Debug\net6.0\Zadania_AiSD.csproj.CoreCompileInputs.cache
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\obj\Debug\net6.0\Zadania_AiSD.dll
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\obj\Debug\net6.0\refint\Zadania_AiSD.dll
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\obj\Debug\net6.0\Zadania_AiSD.pdb
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\obj\Debug\net6.0\Zadania_AiSD.genruntimeconfig.cache
+C:\Users\SEGMK\source\repos\Zadania_AiSD\Zadania_AiSD\obj\Debug\net6.0\ref\Zadania_AiSD.dll
